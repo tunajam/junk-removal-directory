@@ -1,0 +1,3282 @@
+[
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 298-5867",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Austin, TX",
+    "description": "World's largest junk removal service. Full-service pickup of furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$499"
+      },
+      {
+        "value": 4,
+        "price_range": "$499–$800+"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 312,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(844) 239-7711",
+    "website": "https://goloadup.com",
+    "address": "Austin, TX",
+    "description": "Upfront flat-rate pricing starting at $79. Book online instantly.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$699"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 189,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Austin",
+    "slug": "junk-king-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 298-0255",
+    "website": "https://www.junk-king.com/locations/austin",
+    "address": "Austin, TX",
+    "description": "Eco-friendly junk removal recycling ~60% of hauled items. Price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$750"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 245,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Jack Rabbit Junk Removal",
+    "slug": "jack-rabbit-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 265-5865",
+    "website": "https://www.junkremovalinaustin.com",
+    "address": "Austin, TX",
+    "description": "Local Austin junk removal with competitive pricing and fast response.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$75–$125"
+      },
+      {
+        "value": 2,
+        "price_range": "$175–$295"
+      },
+      {
+        "value": 3,
+        "price_range": "$295–$450"
+      },
+      {
+        "value": 4,
+        "price_range": "$450–$700"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Bagster Pickup",
+      "Weekend Availability"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.8,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bulls of Texas Junk Removal",
+    "slug": "bulls-of-texas-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 553-7552",
+    "website": "https://bullsoftx.com",
+    "address": "Austin, TX",
+    "description": "Transparent upfront pricing with no hidden fees. Free on-site estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$185–$310"
+      },
+      {
+        "value": 3,
+        "price_range": "$310–$460"
+      },
+      {
+        "value": 4,
+        "price_range": "$460–$725"
+      }
+    ],
+    "amenities": [
+      "Transparent Pricing",
+      "Free On-Site Estimates",
+      "Dumpster Rentals"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Duke's Junk Recycling",
+    "slug": "dukes-junk-recycling-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 400-2527",
+    "website": "https://www.dukesjunkrecycling.com",
+    "address": "Austin, TX",
+    "description": "Local Austin junk recycling focused on diverting items from landfills.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$75–$119"
+      },
+      {
+        "value": 2,
+        "price_range": "$169–$279"
+      },
+      {
+        "value": 3,
+        "price_range": "$279–$429"
+      },
+      {
+        "value": 4,
+        "price_range": "$429–$679"
+      }
+    ],
+    "amenities": [
+      "Recycling Focus",
+      "Local Company",
+      "Eco-Friendly"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(303) 586-2710",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Denver, CO",
+    "description": "Full-service junk removal for the Denver metro area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$499"
+      },
+      {
+        "value": 4,
+        "price_range": "$499–$800+"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 278,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Denver",
+    "slug": "junk-king-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(303) 586-0260",
+    "website": "https://www.junk-king.com/locations/denver",
+    "address": "Denver, CO",
+    "description": "Eco-friendly junk removal with price match guarantee. ~60% recycling rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$750"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 201,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(303) 586-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Denver, CO",
+    "description": "Full-service junk removal and moving. 70%+ donation and recycling rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$219–$369"
+      },
+      {
+        "value": 3,
+        "price_range": "$369–$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$529–$829"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(844) 239-7711",
+    "website": "https://goloadup.com",
+    "address": "Denver, CO",
+    "description": "Flat-rate upfront pricing. Book online and get instant quotes.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$699"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 143,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 886-2465",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Seattle, WA",
+    "description": "Full-service junk removal for the Seattle metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$219–$369"
+      },
+      {
+        "value": 3,
+        "price_range": "$369–$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$529–$849"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Charitable Donations"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 256,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk B Gone",
+    "slug": "junk-b-gone-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 722-4285",
+    "website": "https://mrjunkbgoneseattle.com",
+    "address": "Seattle, WA",
+    "description": "Seattle's most trusted junk removal since 1989. 624+ five-star reviews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$749"
+      }
+    ],
+    "amenities": [
+      "Since 1989",
+      "All-Inclusive Pricing",
+      "Eco-Friendly"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 624,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Seattle",
+    "slug": "junk-king-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(253) 267-8793",
+    "website": "https://www.junk-king.com/locations/seattle",
+    "address": "Seattle, WA",
+    "description": "Eco-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$339"
+      },
+      {
+        "value": 3,
+        "price_range": "$339–$489"
+      },
+      {
+        "value": 4,
+        "price_range": "$489–$769"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Weekend Availability"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 189,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Seattle Rubbish Removal",
+    "slug": "seattle-rubbish-removal",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 414-7434",
+    "website": "https://seattlerubbish.com",
+    "address": "Seattle, WA",
+    "description": "Fast junk removal and home cleanouts in Seattle.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$185–$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$309–$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$459–$729"
+      }
+    ],
+    "amenities": [
+      "Fast Service",
+      "Construction Debris",
+      "Home Cleanouts"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.7,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Action Junk Hauling",
+    "slug": "action-junk-hauling-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 468-7274",
+    "website": "https://actionjunkhauling.com",
+    "address": "Seattle, WA",
+    "description": "Best prices in Seattle for small or large junk removal projects.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$125"
+      },
+      {
+        "value": 2,
+        "price_range": "$175–$289"
+      },
+      {
+        "value": 3,
+        "price_range": "$289–$439"
+      },
+      {
+        "value": 4,
+        "price_range": "$439–$699"
+      }
+    ],
+    "amenities": [
+      "Best Price Guarantee",
+      "Small & Large Projects",
+      "Same Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 203,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Busby Junk Removal",
+    "slug": "busby-junk-removal-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 555-2867",
+    "website": "https://www.busbyjunkremoval.com",
+    "address": "Seattle, WA",
+    "description": "Top-rated local Seattle junk removal for residential and commercial.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$185–$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$309–$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$459–$729"
+      }
+    ],
+    "amenities": [
+      "Top Rated",
+      "Residential & Commercial",
+      "Competitive Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.9,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(404) 666-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Atlanta, GA",
+    "description": "Full-service junk removal for the Atlanta metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 287,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(404) 666-3070",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Atlanta, GA",
+    "description": "Junk removal and moving. 70%+ items donated or recycled.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$209–$359"
+      },
+      {
+        "value": 3,
+        "price_range": "$359–$519"
+      },
+      {
+        "value": 4,
+        "price_range": "$519–$819"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "The Junkluggers of Atlanta",
+    "slug": "junkluggers-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(404) 913-1033",
+    "website": "https://www.junkluggers.com",
+    "address": "Atlanta, GA",
+    "description": "Eco-friendly junk removal aiming to recycle or donate 100% of items.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$145"
+      },
+      {
+        "value": 2,
+        "price_range": "$195–$339"
+      },
+      {
+        "value": 3,
+        "price_range": "$339–$499"
+      },
+      {
+        "value": 4,
+        "price_range": "$499–$789"
+      }
+    ],
+    "amenities": [
+      "100% Eco-Friendly Goal",
+      "2-Hour Arrival Window",
+      "Donation Receipts"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Stand Up Guys Junk Removal",
+    "slug": "stand-up-guys-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(404) 987-0973",
+    "website": "https://www.standupguys.biz",
+    "address": "Atlanta, GA",
+    "description": "Locally owned junk removal known for friendly service and fair pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$309–$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$459–$729"
+      }
+    ],
+    "amenities": [
+      "Locally Owned",
+      "Friendly Crews",
+      "Same Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 342,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(844) 239-7711",
+    "website": "https://goloadup.com",
+    "address": "Atlanta, GA",
+    "description": "Atlanta-headquartered junk removal with flat-rate upfront pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$699"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "HQ City"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(602) 753-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Phoenix, AZ",
+    "description": "Full-service junk removal for the Phoenix metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Phoenix",
+    "slug": "junk-king-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(602) 753-0260",
+    "website": "https://www.junk-king.com/locations/phoenix",
+    "address": "Phoenix, AZ",
+    "description": "Budget-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$739"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(602) 753-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Phoenix, AZ",
+    "description": "Full-service junk removal and moving. 70%+ donation rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$209–$359"
+      },
+      {
+        "value": 3,
+        "price_range": "$359–$519"
+      },
+      {
+        "value": 4,
+        "price_range": "$519–$819"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(844) 239-7711",
+    "website": "https://goloadup.com",
+    "address": "Phoenix, AZ",
+    "description": "Flat-rate upfront pricing for junk removal in Phoenix.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$699"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 123,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(312) 657-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Chicago, IL",
+    "description": "Full-service junk removal for the Chicagoland area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$219–$369"
+      },
+      {
+        "value": 3,
+        "price_range": "$369–$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$529–$849"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 298,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "The Junkluggers of Chicago",
+    "slug": "junkluggers-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(312) 657-1033",
+    "website": "https://www.junkluggers.com",
+    "address": "Chicago, IL",
+    "description": "Eco-friendly junk removal targeting 100% recycle or donate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$209–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "100% Eco-Friendly Goal",
+      "2-Hour Arrival Window",
+      "Donation Receipts"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(312) 657-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Chicago, IL",
+    "description": "Junk removal and moving with 70%+ donation and recycling rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$229–$379"
+      },
+      {
+        "value": 3,
+        "price_range": "$379–$549"
+      },
+      {
+        "value": 4,
+        "price_range": "$549–$859"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 189,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "We Junk",
+    "slug": "we-junk-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(312) 657-8800",
+    "website": "https://www.wejunk.com",
+    "address": "Chicago, IL",
+    "description": "Volume-based junk removal serving the Chicago metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$489"
+      },
+      {
+        "value": 4,
+        "price_range": "$489–$779"
+      }
+    ],
+    "amenities": [
+      "Volume-Based Pricing",
+      "Recycling",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 955-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Houston, TX",
+    "description": "Full-service junk removal for the Houston metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.4,
+    "review_count": 267,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 955-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Houston, TX",
+    "description": "Full-service junk removal and moving. 70%+ items donated or recycled.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Houston",
+    "slug": "junk-king-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 955-0260",
+    "website": "https://www.junk-king.com/locations/houston",
+    "address": "Houston, TX",
+    "description": "Budget junk removal with price match guarantee. ~60% recycling rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$739"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "WeCycle",
+    "slug": "wecycle-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(888) 932-9253",
+    "website": "https://getwecycle.com",
+    "address": "Houston, TX",
+    "description": "Photo-based online booking with transparent upfront pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$185–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$739"
+      }
+    ],
+    "amenities": [
+      "Photo-Based Booking",
+      "Transparent Pricing",
+      "Eco-Conscious"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(214) 935-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Dallas, TX",
+    "description": "Full-service junk removal for Dallas-Fort Worth.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.4,
+    "review_count": 245,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "JDog Junk Removal",
+    "slug": "jdog-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(214) 935-4300",
+    "website": "https://www.jdogjunkremoval.com",
+    "address": "Dallas, TX",
+    "description": "Veteran-owned junk removal with 'leave no trace' eco ethic.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$185–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$739"
+      }
+    ],
+    "amenities": [
+      "Veteran-Owned",
+      "Leave No Trace",
+      "Volume-Based Pricing"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(214) 935-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Dallas, TX",
+    "description": "Full-service junk removal and moving with 70%+ donation rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "WeCycle",
+    "slug": "wecycle-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(888) 932-9253",
+    "website": "https://getwecycle.com",
+    "address": "Dallas, TX",
+    "description": "Upload photos for instant junk removal quotes. Eco-friendly disposal.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$185–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$739"
+      }
+    ],
+    "amenities": [
+      "Photo-Based Booking",
+      "Transparent Pricing",
+      "Same Day Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "(305) 209-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Miami, FL",
+    "description": "Full-service junk removal for the Miami-Dade area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$209–$359"
+      },
+      {
+        "value": 3,
+        "price_range": "$359–$519"
+      },
+      {
+        "value": 4,
+        "price_range": "$519–$829"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 212,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "(305) 209-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Miami, FL",
+    "description": "Junk removal and moving. 70%+ donation rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$219–$369"
+      },
+      {
+        "value": 3,
+        "price_range": "$369–$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$529–$839"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "(844) 239-7711",
+    "website": "https://goloadup.com",
+    "address": "Miami, FL",
+    "description": "Flat-rate upfront pricing for junk removal in Miami.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$729"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(323) 486-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Los Angeles, CA",
+    "description": "Full-service junk removal for the LA metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$229–$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$389–$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$569–$899"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 345,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Los Angeles",
+    "slug": "junk-king-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(323) 486-0260",
+    "website": "https://www.junk-king.com/locations/los-angeles",
+    "address": "Los Angeles, CA",
+    "description": "Budget-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$155"
+      },
+      {
+        "value": 2,
+        "price_range": "$209–$359"
+      },
+      {
+        "value": 3,
+        "price_range": "$359–$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$529–$829"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Remoov",
+    "slug": "remoov-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(844) 473-6668",
+    "website": "https://www.remoovit.com",
+    "address": "Los Angeles, CA",
+    "description": "Resale-first junk removal. Items resold, donated, or recycled.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$489"
+      },
+      {
+        "value": 4,
+        "price_range": "$489–$779"
+      }
+    ],
+    "amenities": [
+      "Resale-First Model",
+      "Item-Based Pricing",
+      "Eco-Friendly"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "We Junk",
+    "slug": "we-junk-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(323) 486-8800",
+    "website": "https://www.wejunk.com",
+    "address": "Los Angeles, CA",
+    "description": "Volume-based junk removal in LA. Expanding operations.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "Volume-Based Pricing",
+      "Recycling",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-diego",
+    "phone": "(619) 363-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "San Diego, CA",
+    "description": "Full-service junk removal for San Diego County.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$219–$379"
+      },
+      {
+        "value": 3,
+        "price_range": "$379–$549"
+      },
+      {
+        "value": 4,
+        "price_range": "$549–$879"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 223,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King San Diego",
+    "slug": "junk-king-san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-diego",
+    "phone": "(619) 363-0260",
+    "website": "https://www.junk-king.com/locations/san-diego",
+    "address": "San Diego, CA",
+    "description": "Eco-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-diego",
+    "phone": "(619) 363-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "San Diego, CA",
+    "description": "Full-service junk removal and moving. 70%+ donation rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$219–$369"
+      },
+      {
+        "value": 3,
+        "price_range": "$369–$539"
+      },
+      {
+        "value": 4,
+        "price_range": "$539–$849"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(415) 655-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "San Francisco, CA",
+    "description": "Full-service junk removal for the Bay Area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$119–$179"
+      },
+      {
+        "value": 2,
+        "price_range": "$239–$399"
+      },
+      {
+        "value": 3,
+        "price_range": "$399–$579"
+      },
+      {
+        "value": 4,
+        "price_range": "$579–$929"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Bay Area Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 289,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "The Junkluggers of San Francisco",
+    "slug": "junkluggers-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(415) 655-1033",
+    "website": "https://www.junkluggers.com",
+    "address": "San Francisco, CA",
+    "description": "Eco-friendly junk removal with 100% recycle/donate goal.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$229–$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$389–$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$569–$899"
+      }
+    ],
+    "amenities": [
+      "100% Eco-Friendly Goal",
+      "2-Hour Arrival Window",
+      "Donation Receipts"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.7,
+    "review_count": 123,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Remoov",
+    "slug": "remoov-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(844) 473-6668",
+    "website": "https://www.remoovit.com",
+    "address": "San Francisco, CA",
+    "description": "SF-based resale-first junk removal model.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "Resale-First Model",
+      "Item-Based Pricing",
+      "SF-Based"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.7,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "(503) 206-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Portland, OR",
+    "description": "Full-service junk removal for the Portland metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$819"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Portland",
+    "slug": "junk-king-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "(503) 206-0260",
+    "website": "https://www.junk-king.com/locations/portland",
+    "address": "Portland, OR",
+    "description": "Eco-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$759"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Action Junk Hauling Portland",
+    "slug": "action-junk-hauling-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "(503) 468-7274",
+    "website": "https://actionjunkhauling.com",
+    "address": "Portland, OR",
+    "description": "Competitive pricing for Portland area junk removal.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$125"
+      },
+      {
+        "value": 2,
+        "price_range": "$175–$289"
+      },
+      {
+        "value": 3,
+        "price_range": "$289–$439"
+      },
+      {
+        "value": 4,
+        "price_range": "$439–$699"
+      }
+    ],
+    "amenities": [
+      "Best Price Guarantee",
+      "Small & Large Projects",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(212) 658-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "New York, NY",
+    "description": "Full-service junk removal for all five boroughs.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$119–$179"
+      },
+      {
+        "value": 2,
+        "price_range": "$249–$409"
+      },
+      {
+        "value": 3,
+        "price_range": "$409–$599"
+      },
+      {
+        "value": 4,
+        "price_range": "$599–$949"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Walk-Up Service",
+      "All Five Boroughs"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.2,
+    "review_count": 412,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "The Junkluggers of NYC",
+    "slug": "junkluggers-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(212) 658-1033",
+    "website": "https://www.junkluggers.com",
+    "address": "New York, NY",
+    "description": "Eco-friendly junk removal for apartments and offices.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$119–$179"
+      },
+      {
+        "value": 2,
+        "price_range": "$239–$399"
+      },
+      {
+        "value": 3,
+        "price_range": "$399–$579"
+      },
+      {
+        "value": 4,
+        "price_range": "$579–$929"
+      }
+    ],
+    "amenities": [
+      "100% Eco-Friendly Goal",
+      "Apartment Cleanouts",
+      "Office Moves"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.6,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "We Junk",
+    "slug": "we-junk-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(212) 658-8800",
+    "website": "https://www.wejunk.com",
+    "address": "New York, NY",
+    "description": "Volume-based junk removal in NYC.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$229–$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$389–$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$569–$899"
+      }
+    ],
+    "amenities": [
+      "Volume-Based Pricing",
+      "Recycling",
+      "NYC Coverage"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.3,
+    "review_count": 89,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "(615) 669-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Nashville, TN",
+    "description": "Full-service junk removal for Nashville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Nashville",
+    "slug": "junk-king-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "(615) 669-0260",
+    "website": "https://www.junk-king.com/locations/nashville",
+    "address": "Nashville, TN",
+    "description": "Eco-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$309–$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$459–$729"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 123,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "(615) 669-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Nashville, TN",
+    "description": "Junk removal and moving with 70%+ donation rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$145"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "(612) 345-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Minneapolis, MN",
+    "description": "Full-service junk removal for the Twin Cities metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$819"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Twin Cities Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Minneapolis",
+    "slug": "junk-king-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "(612) 345-0260",
+    "website": "https://www.junk-king.com/locations/minneapolis",
+    "address": "Minneapolis, MN",
+    "description": "Eco-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$759"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Twin Cities Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "(704) 266-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Charlotte, NC",
+    "description": "Full-service junk removal for the Charlotte metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "(704) 266-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Charlotte, NC",
+    "description": "Full-service junk removal and moving. 70%+ donation rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95–$145"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 123,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "(813) 534-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Tampa, FL",
+    "description": "Full-service junk removal for Tampa Bay area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 189,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "(813) 534-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Tampa, FL",
+    "description": "Tampa HQ of College Hunks. Full-service junk removal and moving.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$145"
+      },
+      {
+        "value": 2,
+        "price_range": "$195–$339"
+      },
+      {
+        "value": 3,
+        "price_range": "$339–$499"
+      },
+      {
+        "value": 4,
+        "price_range": "$499–$789"
+      }
+    ],
+    "amenities": [
+      "HQ City",
+      "70% Donation Rate",
+      "Moving Services"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "(919) 263-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Raleigh, NC",
+    "description": "Full-service junk removal for the Raleigh-Durham area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Triangle Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "JDog Junk Removal",
+    "slug": "jdog-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "(919) 263-4300",
+    "website": "https://www.jdogjunkremoval.com",
+    "address": "Raleigh, NC",
+    "description": "Veteran-owned junk removal with eco-friendly practices.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$309–$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$459–$729"
+      }
+    ],
+    "amenities": [
+      "Veteran-Owned",
+      "Leave No Trace",
+      "On-Time Guarantee"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-boston",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_slug": "massachusetts",
+    "city_slug": "boston",
+    "phone": "(617) 752-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Boston, MA",
+    "description": "Full-service junk removal for Greater Boston.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$229–$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$389–$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$569–$899"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Walk-Up Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 267,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-boston",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_slug": "massachusetts",
+    "city_slug": "boston",
+    "phone": "(617) 752-3050",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Boston, MA",
+    "description": "Junk removal and moving in the Boston metro. 70%+ donation rate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$165"
+      },
+      {
+        "value": 2,
+        "price_range": "$229–$379"
+      },
+      {
+        "value": 3,
+        "price_range": "$379–$549"
+      },
+      {
+        "value": 4,
+        "price_range": "$549–$869"
+      }
+    ],
+    "amenities": [
+      "70% Donation Rate",
+      "Moving Services",
+      "Uniformed Crews"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-washington-dc",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "state_slug": "district-of-columbia",
+    "city_slug": "washington",
+    "phone": "(202) 688-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Washington, DC",
+    "description": "Full-service junk removal for the DC metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109–$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$229–$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$389–$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$569–$899"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "DC Metro Coverage",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Mack Hauling",
+    "slug": "mack-hauling-washington-dc",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "state_slug": "district-of-columbia",
+    "city_slug": "washington",
+    "phone": "(202) 688-6225",
+    "website": "https://www.mackhauling.com",
+    "address": "Washington, DC",
+    "description": "Local DC area junk removal and hauling. Residential and commercial.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$199–$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$349–$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$509–$799"
+      }
+    ],
+    "amenities": [
+      "Local Company",
+      "Residential & Commercial",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 908-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "San Antonio, TX",
+    "description": "Full-service junk removal for the San Antonio metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$749"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King San Antonio",
+    "slug": "junk-king-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 908-0260",
+    "website": "https://www.junk-king.com/locations/san-antonio",
+    "address": "San Antonio, TX",
+    "description": "Budget junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$125"
+      },
+      {
+        "value": 2,
+        "price_range": "$169–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$719"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_slug": "ohio",
+    "city_slug": "columbus",
+    "phone": "(614) 907-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Columbus, OH",
+    "description": "Full-service junk removal for the Columbus metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_slug": "ohio",
+    "city_slug": "columbus",
+    "phone": "(844) 239-7711",
+    "website": "https://goloadup.com",
+    "address": "Columbus, OH",
+    "description": "Flat-rate upfront pricing. Book online instantly.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$699"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "(317) 522-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Indianapolis, IN",
+    "description": "Full-service junk removal for the Indy metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$135"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$319–$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$469–$749"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 123,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "JDog Junk Removal",
+    "slug": "jdog-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "(317) 522-4300",
+    "website": "https://www.jdogjunkremoval.com",
+    "address": "Indianapolis, IN",
+    "description": "Veteran-owned junk removal with eco-friendly practices.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$125"
+      },
+      {
+        "value": 2,
+        "price_range": "$169–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$719"
+      }
+    ],
+    "amenities": [
+      "Veteran-Owned",
+      "Leave No Trace",
+      "Eco-Friendly"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 89,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-las-vegas",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "state_slug": "nevada",
+    "city_slug": "las-vegas",
+    "phone": "(702) 608-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Las Vegas, NV",
+    "description": "Full-service junk removal for the Las Vegas valley.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89–$139"
+      },
+      {
+        "value": 2,
+        "price_range": "$189–$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$329–$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$479–$769"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Valley-Wide Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King Las Vegas",
+    "slug": "junk-king-las-vegas",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "state_slug": "nevada",
+    "city_slug": "las-vegas",
+    "phone": "(702) 608-0260",
+    "website": "https://www.junk-king.com/locations/las-vegas",
+    "address": "Las Vegas, NV",
+    "description": "Eco-friendly junk removal with price match guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$309–$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$459–$729"
+      }
+    ],
+    "amenities": [
+      "Price Match Guarantee",
+      "60% Recycling Rate",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-las-vegas",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "state_slug": "nevada",
+    "city_slug": "las-vegas",
+    "phone": "(844) 239-7711",
+    "website": "https://goloadup.com",
+    "address": "Las Vegas, NV",
+    "description": "Flat-rate upfront pricing for junk removal.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79–$129"
+      },
+      {
+        "value": 2,
+        "price_range": "$179–$299"
+      },
+      {
+        "value": 3,
+        "price_range": "$299–$449"
+      },
+      {
+        "value": 4,
+        "price_range": "$449–$699"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk-philadelphia",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "state_slug": "pennsylvania",
+    "city_slug": "philadelphia",
+    "phone": "(215) 372-5865",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Philadelphia, PA",
+    "description": "Full-service junk removal for the Philadelphia metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$209–$369"
+      },
+      {
+        "value": 3,
+        "price_range": "$369–$539"
+      },
+      {
+        "value": 4,
+        "price_range": "$539–$859"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Row House Specialists",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "The Junkluggers of Philadelphia",
+    "slug": "junkluggers-philadelphia",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "state_slug": "pennsylvania",
+    "city_slug": "philadelphia",
+    "phone": "(215) 372-1033",
+    "website": "https://www.junkluggers.com",
+    "address": "Philadelphia, PA",
+    "description": "Eco-friendly junk removal with 100% recycle/donate goal.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99–$155"
+      },
+      {
+        "value": 2,
+        "price_range": "$209–$359"
+      },
+      {
+        "value": 3,
+        "price_range": "$359–$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$529–$839"
+      }
+    ],
+    "amenities": [
+      "100% Eco-Friendly Goal",
+      "2-Hour Arrival Window",
+      "Donation Receipts"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.6,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  }
+]
