@@ -12,6 +12,16 @@ export const metadata: Metadata = {
  */
 const GUIDES = [
   {
+    slug: 'how-to-choose-junk-removal-company',
+    title: 'How to Choose a Junk Removal Company',
+    excerpt: 'Licensing, insurance, eco-friendly disposal, pricing red flags, and the right questions to ask before hiring.',
+  },
+  {
+    slug: 'junk-removal-vs-dumpster-rental',
+    title: 'Junk Removal vs Dumpster Rental: Which Is Right for You?',
+    excerpt: 'Side-by-side comparison with pros/cons, cost breakdown by project type, and a decision flowchart.',
+  },
+  {
     slug: 'getting-started',
     title: `Getting Started with ${config.industry.singular}`,
     excerpt: 'Everything you need to know before hiring a provider.',
