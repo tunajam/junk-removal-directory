@@ -13,19 +13,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$499"
+        "price_range": "$349\u2013$499"
       },
       {
         "value": 4,
-        "price_range": "$499–$800+"
+        "price_range": "$499\u2013$800+"
       }
     ],
     "amenities": [
@@ -53,19 +53,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$129"
+        "price_range": "$79\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$299"
+        "price_range": "$179\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$699"
+        "price_range": "$449\u2013$699"
       }
     ],
     "amenities": [
@@ -93,19 +93,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$750"
+        "price_range": "$479\u2013$750"
       }
     ],
     "amenities": [
@@ -133,19 +133,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$75–$125"
+        "price_range": "$75\u2013$125"
       },
       {
         "value": 2,
-        "price_range": "$175–$295"
+        "price_range": "$175\u2013$295"
       },
       {
         "value": 3,
-        "price_range": "$295–$450"
+        "price_range": "$295\u2013$450"
       },
       {
         "value": 4,
-        "price_range": "$450–$700"
+        "price_range": "$450\u2013$700"
       }
     ],
     "amenities": [
@@ -173,19 +173,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$185–$310"
+        "price_range": "$185\u2013$310"
       },
       {
         "value": 3,
-        "price_range": "$310–$460"
+        "price_range": "$310\u2013$460"
       },
       {
         "value": 4,
-        "price_range": "$460–$725"
+        "price_range": "$460\u2013$725"
       }
     ],
     "amenities": [
@@ -213,19 +213,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$75–$119"
+        "price_range": "$75\u2013$119"
       },
       {
         "value": 2,
-        "price_range": "$169–$279"
+        "price_range": "$169\u2013$279"
       },
       {
         "value": 3,
-        "price_range": "$279–$429"
+        "price_range": "$279\u2013$429"
       },
       {
         "value": 4,
-        "price_range": "$429–$679"
+        "price_range": "$429\u2013$679"
       }
     ],
     "amenities": [
@@ -253,19 +253,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$499"
+        "price_range": "$349\u2013$499"
       },
       {
         "value": 4,
-        "price_range": "$499–$800+"
+        "price_range": "$499\u2013$800+"
       }
     ],
     "amenities": [
@@ -293,19 +293,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$750"
+        "price_range": "$479\u2013$750"
       }
     ],
     "amenities": [
@@ -333,19 +333,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$159"
+        "price_range": "$99\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$219–$369"
+        "price_range": "$219\u2013$369"
       },
       {
         "value": 3,
-        "price_range": "$369–$529"
+        "price_range": "$369\u2013$529"
       },
       {
         "value": 4,
-        "price_range": "$529–$829"
+        "price_range": "$529\u2013$829"
       }
     ],
     "amenities": [
@@ -373,19 +373,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$129"
+        "price_range": "$79\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$299"
+        "price_range": "$179\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$699"
+        "price_range": "$449\u2013$699"
       }
     ],
     "amenities": [
@@ -413,19 +413,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$159"
+        "price_range": "$109\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$219–$369"
+        "price_range": "$219\u2013$369"
       },
       {
         "value": 3,
-        "price_range": "$369–$529"
+        "price_range": "$369\u2013$529"
       },
       {
         "value": 4,
-        "price_range": "$529–$849"
+        "price_range": "$529\u2013$849"
       }
     ],
     "amenities": [
@@ -453,19 +453,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$319"
+        "price_range": "$189\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$749"
+        "price_range": "$469\u2013$749"
       }
     ],
     "amenities": [
@@ -493,19 +493,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$339"
+        "price_range": "$199\u2013$339"
       },
       {
         "value": 3,
-        "price_range": "$339–$489"
+        "price_range": "$339\u2013$489"
       },
       {
         "value": 4,
-        "price_range": "$489–$769"
+        "price_range": "$489\u2013$769"
       }
     ],
     "amenities": [
@@ -533,19 +533,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$185–$309"
+        "price_range": "$185\u2013$309"
       },
       {
         "value": 3,
-        "price_range": "$309–$459"
+        "price_range": "$309\u2013$459"
       },
       {
         "value": 4,
-        "price_range": "$459–$729"
+        "price_range": "$459\u2013$729"
       }
     ],
     "amenities": [
@@ -573,19 +573,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$125"
+        "price_range": "$79\u2013$125"
       },
       {
         "value": 2,
-        "price_range": "$175–$289"
+        "price_range": "$175\u2013$289"
       },
       {
         "value": 3,
-        "price_range": "$289–$439"
+        "price_range": "$289\u2013$439"
       },
       {
         "value": 4,
-        "price_range": "$439–$699"
+        "price_range": "$439\u2013$699"
       }
     ],
     "amenities": [
@@ -613,19 +613,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$185–$309"
+        "price_range": "$185\u2013$309"
       },
       {
         "value": 3,
-        "price_range": "$309–$459"
+        "price_range": "$309\u2013$459"
       },
       {
         "value": 4,
-        "price_range": "$459–$729"
+        "price_range": "$459\u2013$729"
       }
     ],
     "amenities": [
@@ -653,19 +653,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -693,19 +693,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$209–$359"
+        "price_range": "$209\u2013$359"
       },
       {
         "value": 3,
-        "price_range": "$359–$519"
+        "price_range": "$359\u2013$519"
       },
       {
         "value": 4,
-        "price_range": "$519–$819"
+        "price_range": "$519\u2013$819"
       }
     ],
     "amenities": [
@@ -733,19 +733,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$145"
+        "price_range": "$95\u2013$145"
       },
       {
         "value": 2,
-        "price_range": "$195–$339"
+        "price_range": "$195\u2013$339"
       },
       {
         "value": 3,
-        "price_range": "$339–$499"
+        "price_range": "$339\u2013$499"
       },
       {
         "value": 4,
-        "price_range": "$499–$789"
+        "price_range": "$499\u2013$789"
       }
     ],
     "amenities": [
@@ -773,19 +773,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$129"
+        "price_range": "$85\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$309"
+        "price_range": "$179\u2013$309"
       },
       {
         "value": 3,
-        "price_range": "$309–$459"
+        "price_range": "$309\u2013$459"
       },
       {
         "value": 4,
-        "price_range": "$459–$729"
+        "price_range": "$459\u2013$729"
       }
     ],
     "amenities": [
@@ -813,19 +813,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$129"
+        "price_range": "$79\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$299"
+        "price_range": "$179\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$699"
+        "price_range": "$449\u2013$699"
       }
     ],
     "amenities": [
@@ -853,19 +853,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -893,19 +893,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$129"
+        "price_range": "$85\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$319"
+        "price_range": "$179\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$739"
+        "price_range": "$469\u2013$739"
       }
     ],
     "amenities": [
@@ -933,19 +933,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$149"
+        "price_range": "$95\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$209–$359"
+        "price_range": "$209\u2013$359"
       },
       {
         "value": 3,
-        "price_range": "$359–$519"
+        "price_range": "$359\u2013$519"
       },
       {
         "value": 4,
-        "price_range": "$519–$819"
+        "price_range": "$519\u2013$819"
       }
     ],
     "amenities": [
@@ -973,19 +973,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$129"
+        "price_range": "$79\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$299"
+        "price_range": "$179\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$699"
+        "price_range": "$449\u2013$699"
       }
     ],
     "amenities": [
@@ -1013,19 +1013,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$159"
+        "price_range": "$109\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$219–$369"
+        "price_range": "$219\u2013$369"
       },
       {
         "value": 3,
-        "price_range": "$369–$529"
+        "price_range": "$369\u2013$529"
       },
       {
         "value": 4,
-        "price_range": "$529–$849"
+        "price_range": "$529\u2013$849"
       }
     ],
     "amenities": [
@@ -1053,19 +1053,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$209–$349"
+        "price_range": "$209\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -1093,19 +1093,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$159"
+        "price_range": "$109\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$229–$379"
+        "price_range": "$229\u2013$379"
       },
       {
         "value": 3,
-        "price_range": "$379–$549"
+        "price_range": "$379\u2013$549"
       },
       {
         "value": 4,
-        "price_range": "$549–$859"
+        "price_range": "$549\u2013$859"
       }
     ],
     "amenities": [
@@ -1133,19 +1133,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$489"
+        "price_range": "$329\u2013$489"
       },
       {
         "value": 4,
-        "price_range": "$489–$779"
+        "price_range": "$489\u2013$779"
       }
     ],
     "amenities": [
@@ -1173,19 +1173,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -1213,19 +1213,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$149"
+        "price_range": "$95\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -1253,19 +1253,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$129"
+        "price_range": "$85\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$319"
+        "price_range": "$179\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$739"
+        "price_range": "$469\u2013$739"
       }
     ],
     "amenities": [
@@ -1293,19 +1293,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$185–$319"
+        "price_range": "$185\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$739"
+        "price_range": "$469\u2013$739"
       }
     ],
     "amenities": [
@@ -1333,19 +1333,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -1373,19 +1373,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$185–$319"
+        "price_range": "$185\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$739"
+        "price_range": "$469\u2013$739"
       }
     ],
     "amenities": [
@@ -1413,19 +1413,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$149"
+        "price_range": "$95\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -1453,19 +1453,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$185–$319"
+        "price_range": "$185\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$739"
+        "price_range": "$469\u2013$739"
       }
     ],
     "amenities": [
@@ -1493,19 +1493,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$209–$359"
+        "price_range": "$209\u2013$359"
       },
       {
         "value": 3,
-        "price_range": "$359–$519"
+        "price_range": "$359\u2013$519"
       },
       {
         "value": 4,
-        "price_range": "$519–$829"
+        "price_range": "$519\u2013$829"
       }
     ],
     "amenities": [
@@ -1533,19 +1533,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$159"
+        "price_range": "$99\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$219–$369"
+        "price_range": "$219\u2013$369"
       },
       {
         "value": 3,
-        "price_range": "$369–$529"
+        "price_range": "$369\u2013$529"
       },
       {
         "value": 4,
-        "price_range": "$529–$839"
+        "price_range": "$529\u2013$839"
       }
     ],
     "amenities": [
@@ -1573,19 +1573,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$319"
+        "price_range": "$189\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$729"
+        "price_range": "$469\u2013$729"
       }
     ],
     "amenities": [
@@ -1613,19 +1613,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$169"
+        "price_range": "$109\u2013$169"
       },
       {
         "value": 2,
-        "price_range": "$229–$389"
+        "price_range": "$229\u2013$389"
       },
       {
         "value": 3,
-        "price_range": "$389–$569"
+        "price_range": "$389\u2013$569"
       },
       {
         "value": 4,
-        "price_range": "$569–$899"
+        "price_range": "$569\u2013$899"
       }
     ],
     "amenities": [
@@ -1653,19 +1653,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$155"
+        "price_range": "$99\u2013$155"
       },
       {
         "value": 2,
-        "price_range": "$209–$359"
+        "price_range": "$209\u2013$359"
       },
       {
         "value": 3,
-        "price_range": "$359–$529"
+        "price_range": "$359\u2013$529"
       },
       {
         "value": 4,
-        "price_range": "$529–$829"
+        "price_range": "$529\u2013$829"
       }
     ],
     "amenities": [
@@ -1693,19 +1693,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$139"
+        "price_range": "$85\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$489"
+        "price_range": "$329\u2013$489"
       },
       {
         "value": 4,
-        "price_range": "$489–$779"
+        "price_range": "$489\u2013$779"
       }
     ],
     "amenities": [
@@ -1733,19 +1733,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$149"
+        "price_range": "$95\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -1773,19 +1773,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$159"
+        "price_range": "$109\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$219–$379"
+        "price_range": "$219\u2013$379"
       },
       {
         "value": 3,
-        "price_range": "$379–$549"
+        "price_range": "$379\u2013$549"
       },
       {
         "value": 4,
-        "price_range": "$549–$879"
+        "price_range": "$549\u2013$879"
       }
     ],
     "amenities": [
@@ -1813,19 +1813,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -1853,19 +1853,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$159"
+        "price_range": "$99\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$219–$369"
+        "price_range": "$219\u2013$369"
       },
       {
         "value": 3,
-        "price_range": "$369–$539"
+        "price_range": "$369\u2013$539"
       },
       {
         "value": 4,
-        "price_range": "$539–$849"
+        "price_range": "$539\u2013$849"
       }
     ],
     "amenities": [
@@ -1893,19 +1893,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$119–$179"
+        "price_range": "$119\u2013$179"
       },
       {
         "value": 2,
-        "price_range": "$239–$399"
+        "price_range": "$239\u2013$399"
       },
       {
         "value": 3,
-        "price_range": "$399–$579"
+        "price_range": "$399\u2013$579"
       },
       {
         "value": 4,
-        "price_range": "$579–$929"
+        "price_range": "$579\u2013$929"
       }
     ],
     "amenities": [
@@ -1933,19 +1933,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$169"
+        "price_range": "$109\u2013$169"
       },
       {
         "value": 2,
-        "price_range": "$229–$389"
+        "price_range": "$229\u2013$389"
       },
       {
         "value": 3,
-        "price_range": "$389–$569"
+        "price_range": "$389\u2013$569"
       },
       {
         "value": 4,
-        "price_range": "$569–$899"
+        "price_range": "$569\u2013$899"
       }
     ],
     "amenities": [
@@ -1973,19 +1973,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$149"
+        "price_range": "$95\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -2013,19 +2013,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$819"
+        "price_range": "$509\u2013$819"
       }
     ],
     "amenities": [
@@ -2053,19 +2053,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$759"
+        "price_range": "$479\u2013$759"
       }
     ],
     "amenities": [
@@ -2093,19 +2093,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$125"
+        "price_range": "$79\u2013$125"
       },
       {
         "value": 2,
-        "price_range": "$175–$289"
+        "price_range": "$175\u2013$289"
       },
       {
         "value": 3,
-        "price_range": "$289–$439"
+        "price_range": "$289\u2013$439"
       },
       {
         "value": 4,
-        "price_range": "$439–$699"
+        "price_range": "$439\u2013$699"
       }
     ],
     "amenities": [
@@ -2133,19 +2133,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$119–$179"
+        "price_range": "$119\u2013$179"
       },
       {
         "value": 2,
-        "price_range": "$249–$409"
+        "price_range": "$249\u2013$409"
       },
       {
         "value": 3,
-        "price_range": "$409–$599"
+        "price_range": "$409\u2013$599"
       },
       {
         "value": 4,
-        "price_range": "$599–$949"
+        "price_range": "$599\u2013$949"
       }
     ],
     "amenities": [
@@ -2173,19 +2173,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$119–$179"
+        "price_range": "$119\u2013$179"
       },
       {
         "value": 2,
-        "price_range": "$239–$399"
+        "price_range": "$239\u2013$399"
       },
       {
         "value": 3,
-        "price_range": "$399–$579"
+        "price_range": "$399\u2013$579"
       },
       {
         "value": 4,
-        "price_range": "$579–$929"
+        "price_range": "$579\u2013$929"
       }
     ],
     "amenities": [
@@ -2213,19 +2213,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$169"
+        "price_range": "$109\u2013$169"
       },
       {
         "value": 2,
-        "price_range": "$229–$389"
+        "price_range": "$229\u2013$389"
       },
       {
         "value": 3,
-        "price_range": "$389–$569"
+        "price_range": "$389\u2013$569"
       },
       {
         "value": 4,
-        "price_range": "$569–$899"
+        "price_range": "$569\u2013$899"
       }
     ],
     "amenities": [
@@ -2253,19 +2253,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -2293,19 +2293,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$129"
+        "price_range": "$85\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$309"
+        "price_range": "$179\u2013$309"
       },
       {
         "value": 3,
-        "price_range": "$309–$459"
+        "price_range": "$309\u2013$459"
       },
       {
         "value": 4,
-        "price_range": "$459–$729"
+        "price_range": "$459\u2013$729"
       }
     ],
     "amenities": [
@@ -2333,19 +2333,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$145"
+        "price_range": "$95\u2013$145"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -2373,19 +2373,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$819"
+        "price_range": "$509\u2013$819"
       }
     ],
     "amenities": [
@@ -2413,19 +2413,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$759"
+        "price_range": "$479\u2013$759"
       }
     ],
     "amenities": [
@@ -2453,19 +2453,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -2493,19 +2493,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$95–$145"
+        "price_range": "$95\u2013$145"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -2533,19 +2533,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -2573,19 +2573,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$145"
+        "price_range": "$89\u2013$145"
       },
       {
         "value": 2,
-        "price_range": "$195–$339"
+        "price_range": "$195\u2013$339"
       },
       {
         "value": 3,
-        "price_range": "$339–$499"
+        "price_range": "$339\u2013$499"
       },
       {
         "value": 4,
-        "price_range": "$499–$789"
+        "price_range": "$499\u2013$789"
       }
     ],
     "amenities": [
@@ -2613,19 +2613,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -2653,19 +2653,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$129"
+        "price_range": "$85\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$309"
+        "price_range": "$179\u2013$309"
       },
       {
         "value": 3,
-        "price_range": "$309–$459"
+        "price_range": "$309\u2013$459"
       },
       {
         "value": 4,
-        "price_range": "$459–$729"
+        "price_range": "$459\u2013$729"
       }
     ],
     "amenities": [
@@ -2693,19 +2693,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$169"
+        "price_range": "$109\u2013$169"
       },
       {
         "value": 2,
-        "price_range": "$229–$389"
+        "price_range": "$229\u2013$389"
       },
       {
         "value": 3,
-        "price_range": "$389–$569"
+        "price_range": "$389\u2013$569"
       },
       {
         "value": 4,
-        "price_range": "$569–$899"
+        "price_range": "$569\u2013$899"
       }
     ],
     "amenities": [
@@ -2733,19 +2733,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$165"
+        "price_range": "$109\u2013$165"
       },
       {
         "value": 2,
-        "price_range": "$229–$379"
+        "price_range": "$229\u2013$379"
       },
       {
         "value": 3,
-        "price_range": "$379–$549"
+        "price_range": "$379\u2013$549"
       },
       {
         "value": 4,
-        "price_range": "$549–$869"
+        "price_range": "$549\u2013$869"
       }
     ],
     "amenities": [
@@ -2773,19 +2773,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$109–$169"
+        "price_range": "$109\u2013$169"
       },
       {
         "value": 2,
-        "price_range": "$229–$389"
+        "price_range": "$229\u2013$389"
       },
       {
         "value": 3,
-        "price_range": "$389–$569"
+        "price_range": "$389\u2013$569"
       },
       {
         "value": 4,
-        "price_range": "$569–$899"
+        "price_range": "$569\u2013$899"
       }
     ],
     "amenities": [
@@ -2813,19 +2813,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$149"
+        "price_range": "$99\u2013$149"
       },
       {
         "value": 2,
-        "price_range": "$199–$349"
+        "price_range": "$199\u2013$349"
       },
       {
         "value": 3,
-        "price_range": "$349–$509"
+        "price_range": "$349\u2013$509"
       },
       {
         "value": 4,
-        "price_range": "$509–$799"
+        "price_range": "$509\u2013$799"
       }
     ],
     "amenities": [
@@ -2853,19 +2853,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$179–$319"
+        "price_range": "$179\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$749"
+        "price_range": "$469\u2013$749"
       }
     ],
     "amenities": [
@@ -2893,19 +2893,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$125"
+        "price_range": "$79\u2013$125"
       },
       {
         "value": 2,
-        "price_range": "$169–$299"
+        "price_range": "$169\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$719"
+        "price_range": "$449\u2013$719"
       }
     ],
     "amenities": [
@@ -2933,19 +2933,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -2973,19 +2973,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$129"
+        "price_range": "$79\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$299"
+        "price_range": "$179\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$699"
+        "price_range": "$449\u2013$699"
       }
     ],
     "amenities": [
@@ -3013,19 +3013,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$135"
+        "price_range": "$85\u2013$135"
       },
       {
         "value": 2,
-        "price_range": "$179–$319"
+        "price_range": "$179\u2013$319"
       },
       {
         "value": 3,
-        "price_range": "$319–$469"
+        "price_range": "$319\u2013$469"
       },
       {
         "value": 4,
-        "price_range": "$469–$749"
+        "price_range": "$469\u2013$749"
       }
     ],
     "amenities": [
@@ -3053,19 +3053,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$125"
+        "price_range": "$79\u2013$125"
       },
       {
         "value": 2,
-        "price_range": "$169–$299"
+        "price_range": "$169\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$719"
+        "price_range": "$449\u2013$719"
       }
     ],
     "amenities": [
@@ -3093,19 +3093,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$89–$139"
+        "price_range": "$89\u2013$139"
       },
       {
         "value": 2,
-        "price_range": "$189–$329"
+        "price_range": "$189\u2013$329"
       },
       {
         "value": 3,
-        "price_range": "$329–$479"
+        "price_range": "$329\u2013$479"
       },
       {
         "value": 4,
-        "price_range": "$479–$769"
+        "price_range": "$479\u2013$769"
       }
     ],
     "amenities": [
@@ -3133,19 +3133,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$85–$129"
+        "price_range": "$85\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$309"
+        "price_range": "$179\u2013$309"
       },
       {
         "value": 3,
-        "price_range": "$309–$459"
+        "price_range": "$309\u2013$459"
       },
       {
         "value": 4,
-        "price_range": "$459–$729"
+        "price_range": "$459\u2013$729"
       }
     ],
     "amenities": [
@@ -3173,19 +3173,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$79–$129"
+        "price_range": "$79\u2013$129"
       },
       {
         "value": 2,
-        "price_range": "$179–$299"
+        "price_range": "$179\u2013$299"
       },
       {
         "value": 3,
-        "price_range": "$299–$449"
+        "price_range": "$299\u2013$449"
       },
       {
         "value": 4,
-        "price_range": "$449–$699"
+        "price_range": "$449\u2013$699"
       }
     ],
     "amenities": [
@@ -3213,19 +3213,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$159"
+        "price_range": "$99\u2013$159"
       },
       {
         "value": 2,
-        "price_range": "$209–$369"
+        "price_range": "$209\u2013$369"
       },
       {
         "value": 3,
-        "price_range": "$369–$539"
+        "price_range": "$369\u2013$539"
       },
       {
         "value": 4,
-        "price_range": "$539–$859"
+        "price_range": "$539\u2013$859"
       }
     ],
     "amenities": [
@@ -3253,19 +3253,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$99–$155"
+        "price_range": "$99\u2013$155"
       },
       {
         "value": 2,
-        "price_range": "$209–$359"
+        "price_range": "$209\u2013$359"
       },
       {
         "value": 3,
-        "price_range": "$359–$529"
+        "price_range": "$359\u2013$529"
       },
       {
         "value": 4,
-        "price_range": "$529–$839"
+        "price_range": "$529\u2013$839"
       }
     ],
     "amenities": [
@@ -3276,6 +3276,4249 @@
     "service_area_miles": 20,
     "rating": 4.6,
     "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(854) 314-1409",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Jacksonville, FL",
+    "description": "Full-service junk removal in Jacksonville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$126\u2013$166"
+      },
+      {
+        "value": 2,
+        "price_range": "$210\u2013$327"
+      },
+      {
+        "value": 3,
+        "price_range": "$316\u2013$475"
+      },
+      {
+        "value": 4,
+        "price_range": "$588\u2013$721"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Same Day Service",
+      "Commercial Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.2,
+    "review_count": 308,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(816) 227-4257",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Jacksonville, FL",
+    "description": "Full-service junk removal in Jacksonville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$124\u2013$190"
+      },
+      {
+        "value": 2,
+        "price_range": "$248\u2013$352"
+      },
+      {
+        "value": 3,
+        "price_range": "$327\u2013$563"
+      },
+      {
+        "value": 4,
+        "price_range": "$599\u2013$770"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Licensed & Insured",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 192,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(359) 420-6514",
+    "website": "https://www.junk-king.com",
+    "address": "Jacksonville, FL",
+    "description": "Full-service junk removal in Jacksonville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85\u2013$154"
+      },
+      {
+        "value": 2,
+        "price_range": "$227\u2013$311"
+      },
+      {
+        "value": 3,
+        "price_range": "$344\u2013$537"
+      },
+      {
+        "value": 4,
+        "price_range": "$516\u2013$710"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Donation & Recycling",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.1,
+    "review_count": 200,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(843) 833-6925",
+    "website": "https://goloadup.com",
+    "address": "Jacksonville, FL",
+    "description": "Full-service junk removal in Jacksonville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$115\u2013$161"
+      },
+      {
+        "value": 2,
+        "price_range": "$187\u2013$304"
+      },
+      {
+        "value": 3,
+        "price_range": "$383\u2013$507"
+      },
+      {
+        "value": 4,
+        "price_range": "$523\u2013$719"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Licensed & Insured",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 375,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Jon's Junks",
+    "slug": "jons-junks-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(573) 366-7065",
+    "website": "https://www.jonsjunks.com",
+    "address": "Jacksonville, FL",
+    "description": "Professional junk removal in Northeast Florida. House cleanouts, hoarding, light demolition.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$101\u2013$162"
+      },
+      {
+        "value": 2,
+        "price_range": "$213\u2013$388"
+      },
+      {
+        "value": 3,
+        "price_range": "$386\u2013$467"
+      },
+      {
+        "value": 4,
+        "price_range": "$492\u2013$835"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Free Estimates",
+      "Commercial Service",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.9,
+    "review_count": 183,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Jacksonville Hauling & Junk Removal",
+    "slug": "jacksonville-hauling-and-junk-removal-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(904) 770-4598",
+    "website": "https://jhjremoval.com",
+    "address": "Jacksonville, FL",
+    "description": "Full-service junk removal and hauling for residential and commercial properties.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$122\u2013$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$186\u2013$328"
+      },
+      {
+        "value": 3,
+        "price_range": "$303\u2013$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$551\u2013$767"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 187,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "St Johns Junk Removal",
+    "slug": "st-johns-junk-removal-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(711) 605-8517",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Local junk hauling serving Jacksonville and St. Johns County.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$88\u2013$165"
+      },
+      {
+        "value": 2,
+        "price_range": "$196\u2013$330"
+      },
+      {
+        "value": 3,
+        "price_range": "$394\u2013$592"
+      },
+      {
+        "value": 4,
+        "price_range": "$586\u2013$766"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Donation & Recycling",
+      "Online Booking",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.9,
+    "review_count": 55,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Dump T Dump",
+    "slug": "dump-t-dump-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(721) 705-2489",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Affordable junk pickup and dumpster rental services in Jacksonville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$127\u2013$152"
+      },
+      {
+        "value": 2,
+        "price_range": "$193\u2013$318"
+      },
+      {
+        "value": 3,
+        "price_range": "$379\u2013$489"
+      },
+      {
+        "value": 4,
+        "price_range": "$557\u2013$851"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Online Booking"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 155,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(457) 766-1188",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Memphis, TE",
+    "description": "Full-service junk removal in Memphis. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$122\u2013$195"
+      },
+      {
+        "value": 2,
+        "price_range": "$193\u2013$386"
+      },
+      {
+        "value": 3,
+        "price_range": "$367\u2013$517"
+      },
+      {
+        "value": 4,
+        "price_range": "$536\u2013$727"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Online Booking",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.0,
+    "review_count": 184,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(712) 980-3927",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Memphis, TE",
+    "description": "Full-service junk removal in Memphis. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$111\u2013$155"
+      },
+      {
+        "value": 2,
+        "price_range": "$217\u2013$380"
+      },
+      {
+        "value": 3,
+        "price_range": "$363\u2013$499"
+      },
+      {
+        "value": 4,
+        "price_range": "$488\u2013$794"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Donation & Recycling",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.5,
+    "review_count": 300,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(219) 314-6947",
+    "website": "https://www.junk-king.com",
+    "address": "Memphis, TE",
+    "description": "Full-service junk removal in Memphis. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$98\u2013$164"
+      },
+      {
+        "value": 2,
+        "price_range": "$186\u2013$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$371\u2013$469"
+      },
+      {
+        "value": 4,
+        "price_range": "$470\u2013$886"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Licensed & Insured",
+      "Same Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 115,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(875) 686-3705",
+    "website": "https://goloadup.com",
+    "address": "Memphis, TE",
+    "description": "Full-service junk removal in Memphis. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95\u2013$182"
+      },
+      {
+        "value": 2,
+        "price_range": "$233\u2013$326"
+      },
+      {
+        "value": 3,
+        "price_range": "$368\u2013$500"
+      },
+      {
+        "value": 4,
+        "price_range": "$528\u2013$801"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.1,
+    "review_count": 165,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Clean City Hauling & Junk Removal",
+    "slug": "clean-city-hauling-and-junk-removal-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(265) 546-1344",
+    "website": "https://cleancityhauling.com",
+    "address": "Memphis, TE",
+    "description": "Locally owned junk removal and demolition with focus on recycling.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$116\u2013$184"
+      },
+      {
+        "value": 2,
+        "price_range": "$208\u2013$374"
+      },
+      {
+        "value": 3,
+        "price_range": "$327\u2013$450"
+      },
+      {
+        "value": 4,
+        "price_range": "$467\u2013$880"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Commercial Service",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 80,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Memphis Junk Removal Pros",
+    "slug": "memphis-junk-removal-pros-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(485) 885-8953",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Fast, affordable junk hauling for homes and businesses in Memphis.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$92\u2013$183"
+      },
+      {
+        "value": 2,
+        "price_range": "$195\u2013$391"
+      },
+      {
+        "value": 3,
+        "price_range": "$372\u2013$596"
+      },
+      {
+        "value": 4,
+        "price_range": "$570\u2013$761"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Free Estimates",
+      "Same Day Service"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.6,
+    "review_count": 110,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bluff City Junk Removal",
+    "slug": "bluff-city-junk-removal-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(633) 620-8651",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Same-day junk pickup serving the greater Memphis metro area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$125\u2013$152"
+      },
+      {
+        "value": 2,
+        "price_range": "$191\u2013$306"
+      },
+      {
+        "value": 3,
+        "price_range": "$350\u2013$535"
+      },
+      {
+        "value": 4,
+        "price_range": "$476\u2013$762"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 66,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(485) 673-5092",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Sacramento, CA",
+    "description": "Full-service junk removal in Sacramento. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$83\u2013$177"
+      },
+      {
+        "value": 2,
+        "price_range": "$249\u2013$311"
+      },
+      {
+        "value": 3,
+        "price_range": "$305\u2013$587"
+      },
+      {
+        "value": 4,
+        "price_range": "$452\u2013$722"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Free Estimates",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 255,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(260) 368-7209",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Sacramento, CA",
+    "description": "Full-service junk removal in Sacramento. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79\u2013$173"
+      },
+      {
+        "value": 2,
+        "price_range": "$212\u2013$399"
+      },
+      {
+        "value": 3,
+        "price_range": "$399\u2013$565"
+      },
+      {
+        "value": 4,
+        "price_range": "$522\u2013$807"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 79,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(793) 953-9883",
+    "website": "https://www.junk-king.com",
+    "address": "Sacramento, CA",
+    "description": "Full-service junk removal in Sacramento. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$82\u2013$196"
+      },
+      {
+        "value": 2,
+        "price_range": "$219\u2013$306"
+      },
+      {
+        "value": 3,
+        "price_range": "$305\u2013$598"
+      },
+      {
+        "value": 4,
+        "price_range": "$571\u2013$827"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Same Day Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.7,
+    "review_count": 85,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(809) 269-4853",
+    "website": "https://goloadup.com",
+    "address": "Sacramento, CA",
+    "description": "Full-service junk removal in Sacramento. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$104\u2013$156"
+      },
+      {
+        "value": 2,
+        "price_range": "$210\u2013$373"
+      },
+      {
+        "value": 3,
+        "price_range": "$375\u2013$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$469\u2013$806"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Eco-Friendly Disposal",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 172,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sac Junk Hauling",
+    "slug": "sac-junk-hauling-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(471) 605-3144",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Sacramento's trusted junk removal service. Furniture, appliances, yard waste.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$121\u2013$190"
+      },
+      {
+        "value": 2,
+        "price_range": "$217\u2013$357"
+      },
+      {
+        "value": 3,
+        "price_range": "$339\u2013$467"
+      },
+      {
+        "value": 4,
+        "price_range": "$451\u2013$816"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Same Day Service",
+      "Donation & Recycling",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 109,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Capital City Junk Removal",
+    "slug": "capital-city-junk-removal-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(270) 450-7054",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Eco-friendly junk hauling in Sacramento and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$97\u2013$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$235\u2013$368"
+      },
+      {
+        "value": 3,
+        "price_range": "$389\u2013$526"
+      },
+      {
+        "value": 4,
+        "price_range": "$584\u2013$701"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Upfront Pricing",
+      "Same Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 47,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "River City Junk",
+    "slug": "river-city-junk-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(960) 766-3546",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Fast and affordable junk pickup in the Sacramento Valley.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$96\u2013$167"
+      },
+      {
+        "value": 2,
+        "price_range": "$205\u2013$390"
+      },
+      {
+        "value": 3,
+        "price_range": "$342\u2013$501"
+      },
+      {
+        "value": 4,
+        "price_range": "$516\u2013$828"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Licensed & Insured",
+      "Same Day Service"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.6,
+    "review_count": 232,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(483) 245-1058",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Oklahoma City, OK",
+    "description": "Full-service junk removal in Oklahoma City. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$100\u2013$198"
+      },
+      {
+        "value": 2,
+        "price_range": "$195\u2013$380"
+      },
+      {
+        "value": 3,
+        "price_range": "$332\u2013$490"
+      },
+      {
+        "value": 4,
+        "price_range": "$562\u2013$840"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Donation & Recycling",
+      "Same Day Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 126,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(758) 236-7049",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Oklahoma City, OK",
+    "description": "Full-service junk removal in Oklahoma City. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$116\u2013$184"
+      },
+      {
+        "value": 2,
+        "price_range": "$197\u2013$354"
+      },
+      {
+        "value": 3,
+        "price_range": "$315\u2013$459"
+      },
+      {
+        "value": 4,
+        "price_range": "$527\u2013$792"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Eco-Friendly Disposal",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.2,
+    "review_count": 102,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(562) 998-7658",
+    "website": "https://www.junk-king.com",
+    "address": "Oklahoma City, OK",
+    "description": "Full-service junk removal in Oklahoma City. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$118\u2013$196"
+      },
+      {
+        "value": 2,
+        "price_range": "$198\u2013$329"
+      },
+      {
+        "value": 3,
+        "price_range": "$319\u2013$494"
+      },
+      {
+        "value": 4,
+        "price_range": "$554\u2013$705"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Upfront Pricing",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 177,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(473) 363-2771",
+    "website": "https://goloadup.com",
+    "address": "Oklahoma City, OK",
+    "description": "Full-service junk removal in Oklahoma City. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$103\u2013$151"
+      },
+      {
+        "value": 2,
+        "price_range": "$239\u2013$327"
+      },
+      {
+        "value": 3,
+        "price_range": "$324\u2013$566"
+      },
+      {
+        "value": 4,
+        "price_range": "$538\u2013$777"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Free Estimates",
+      "Same Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.2,
+    "review_count": 218,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "OKC Junk Removal",
+    "slug": "okc-junk-removal-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(485) 271-5573",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Oklahoma City's go-to for residential and commercial junk hauling.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$101\u2013$190"
+      },
+      {
+        "value": 2,
+        "price_range": "$244\u2013$350"
+      },
+      {
+        "value": 3,
+        "price_range": "$385\u2013$586"
+      },
+      {
+        "value": 4,
+        "price_range": "$533\u2013$706"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Thunder Junk Removal",
+    "slug": "thunder-junk-removal-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(239) 311-8119",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Quick, reliable junk pickup across the OKC metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$101\u2013$195"
+      },
+      {
+        "value": 2,
+        "price_range": "$219\u2013$354"
+      },
+      {
+        "value": 3,
+        "price_range": "$376\u2013$579"
+      },
+      {
+        "value": 4,
+        "price_range": "$478\u2013$797"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Eco-Friendly Disposal",
+      "Same Day Service",
+      "Commercial Service"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.5,
+    "review_count": 226,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sooner Hauling",
+    "slug": "sooner-hauling-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(751) 903-4228",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Full-service junk removal and cleanout services in Oklahoma City.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$102\u2013$176"
+      },
+      {
+        "value": 2,
+        "price_range": "$187\u2013$384"
+      },
+      {
+        "value": 3,
+        "price_range": "$341\u2013$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$480\u2013$883"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Upfront Pricing",
+      "Online Booking"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 95,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(767) 330-4143",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Louisville, KE",
+    "description": "Full-service junk removal in Louisville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$105\u2013$191"
+      },
+      {
+        "value": 2,
+        "price_range": "$227\u2013$385"
+      },
+      {
+        "value": 3,
+        "price_range": "$394\u2013$493"
+      },
+      {
+        "value": 4,
+        "price_range": "$594\u2013$776"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Donation & Recycling",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 270,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(793) 821-6279",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Louisville, KE",
+    "description": "Full-service junk removal in Louisville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$108\u2013$177"
+      },
+      {
+        "value": 2,
+        "price_range": "$235\u2013$385"
+      },
+      {
+        "value": 3,
+        "price_range": "$326\u2013$579"
+      },
+      {
+        "value": 4,
+        "price_range": "$570\u2013$887"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Upfront Pricing",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 374,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(834) 543-2530",
+    "website": "https://www.junk-king.com",
+    "address": "Louisville, KE",
+    "description": "Full-service junk removal in Louisville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$127\u2013$164"
+      },
+      {
+        "value": 2,
+        "price_range": "$218\u2013$327"
+      },
+      {
+        "value": 3,
+        "price_range": "$324\u2013$486"
+      },
+      {
+        "value": 4,
+        "price_range": "$455\u2013$710"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Commercial Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 372,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(789) 399-7291",
+    "website": "https://goloadup.com",
+    "address": "Louisville, KE",
+    "description": "Full-service junk removal in Louisville. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$110\u2013$174"
+      },
+      {
+        "value": 2,
+        "price_range": "$210\u2013$317"
+      },
+      {
+        "value": 3,
+        "price_range": "$382\u2013$450"
+      },
+      {
+        "value": 4,
+        "price_range": "$476\u2013$898"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Free Estimates",
+      "Commercial Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 75,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Derby City Junk Removal",
+    "slug": "derby-city-junk-removal-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(770) 455-2988",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Louisville's premier junk hauling and cleanout service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$108\u2013$157"
+      },
+      {
+        "value": 2,
+        "price_range": "$238\u2013$384"
+      },
+      {
+        "value": 3,
+        "price_range": "$366\u2013$592"
+      },
+      {
+        "value": 4,
+        "price_range": "$530\u2013$892"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Commercial Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.8,
+    "review_count": 210,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "River City Hauling",
+    "slug": "river-city-hauling-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(686) 660-5246",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Affordable junk removal for the Louisville metro area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$127\u2013$164"
+      },
+      {
+        "value": 2,
+        "price_range": "$214\u2013$397"
+      },
+      {
+        "value": 3,
+        "price_range": "$398\u2013$582"
+      },
+      {
+        "value": 4,
+        "price_range": "$573\u2013$859"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Online Booking"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.6,
+    "review_count": 80,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bluegrass Junk Removal",
+    "slug": "bluegrass-junk-removal-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(478) 543-6238",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Eco-friendly junk pickup and recycling in Louisville, KY.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$113\u2013$154"
+      },
+      {
+        "value": 2,
+        "price_range": "$196\u2013$318"
+      },
+      {
+        "value": 3,
+        "price_range": "$328\u2013$547"
+      },
+      {
+        "value": 4,
+        "price_range": "$488\u2013$879"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Online Booking"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.3,
+    "review_count": 139,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(625) 263-4388",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Richmond, VI",
+    "description": "Full-service junk removal in Richmond. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$105\u2013$173"
+      },
+      {
+        "value": 2,
+        "price_range": "$181\u2013$396"
+      },
+      {
+        "value": 3,
+        "price_range": "$372\u2013$546"
+      },
+      {
+        "value": 4,
+        "price_range": "$571\u2013$700"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Eco-Friendly Disposal",
+      "Online Booking"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 329,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(817) 425-8999",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Richmond, VI",
+    "description": "Full-service junk removal in Richmond. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$93\u2013$166"
+      },
+      {
+        "value": 2,
+        "price_range": "$234\u2013$361"
+      },
+      {
+        "value": 3,
+        "price_range": "$302\u2013$548"
+      },
+      {
+        "value": 4,
+        "price_range": "$535\u2013$870"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Upfront Pricing",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 368,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(746) 227-7455",
+    "website": "https://www.junk-king.com",
+    "address": "Richmond, VI",
+    "description": "Full-service junk removal in Richmond. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$116\u2013$185"
+      },
+      {
+        "value": 2,
+        "price_range": "$182\u2013$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$381\u2013$558"
+      },
+      {
+        "value": 4,
+        "price_range": "$483\u2013$817"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Same Day Service",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 282,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(534) 545-7211",
+    "website": "https://goloadup.com",
+    "address": "Richmond, VI",
+    "description": "Full-service junk removal in Richmond. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$96\u2013$197"
+      },
+      {
+        "value": 2,
+        "price_range": "$232\u2013$331"
+      },
+      {
+        "value": 3,
+        "price_range": "$309\u2013$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$453\u2013$890"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Eco-Friendly Disposal",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.1,
+    "review_count": 383,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "RVA Junk Removal",
+    "slug": "rva-junk-removal-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(241) 972-1508",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Richmond's trusted junk hauling service for homes and offices.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$94\u2013$161"
+      },
+      {
+        "value": 2,
+        "price_range": "$181\u2013$378"
+      },
+      {
+        "value": 3,
+        "price_range": "$318\u2013$510"
+      },
+      {
+        "value": 4,
+        "price_range": "$481\u2013$820"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Donation & Recycling",
+      "Commercial Service",
+      "Online Booking"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 114,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Capital Hauling RVA",
+    "slug": "capital-hauling-rva-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(371) 820-2876",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Fast junk pickup and disposal in the Richmond metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$128\u2013$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$218\u2013$312"
+      },
+      {
+        "value": 3,
+        "price_range": "$373\u2013$455"
+      },
+      {
+        "value": 4,
+        "price_range": "$528\u2013$846"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Online Booking",
+      "Upfront Pricing",
+      "Free Estimates"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.5,
+    "review_count": 232,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "James River Junk Removal",
+    "slug": "james-river-junk-removal-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(842) 448-2669",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Full-service cleanouts and junk hauling in Richmond, VA.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$123\u2013$198"
+      },
+      {
+        "value": 2,
+        "price_range": "$217\u2013$386"
+      },
+      {
+        "value": 3,
+        "price_range": "$375\u2013$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$593\u2013$899"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.6,
+    "review_count": 37,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(718) 863-6590",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Hartford, CO",
+    "description": "Full-service junk removal in Hartford. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$79\u2013$175"
+      },
+      {
+        "value": 2,
+        "price_range": "$241\u2013$312"
+      },
+      {
+        "value": 3,
+        "price_range": "$354\u2013$541"
+      },
+      {
+        "value": 4,
+        "price_range": "$566\u2013$880"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Online Booking",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 383,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(476) 830-9817",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Hartford, CO",
+    "description": "Full-service junk removal in Hartford. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$128\u2013$179"
+      },
+      {
+        "value": 2,
+        "price_range": "$238\u2013$354"
+      },
+      {
+        "value": 3,
+        "price_range": "$392\u2013$517"
+      },
+      {
+        "value": 4,
+        "price_range": "$531\u2013$761"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Eco-Friendly Disposal",
+      "Online Booking"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.6,
+    "review_count": 341,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(824) 884-7209",
+    "website": "https://www.junk-king.com",
+    "address": "Hartford, CO",
+    "description": "Full-service junk removal in Hartford. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$100\u2013$150"
+      },
+      {
+        "value": 2,
+        "price_range": "$242\u2013$340"
+      },
+      {
+        "value": 3,
+        "price_range": "$322\u2013$573"
+      },
+      {
+        "value": 4,
+        "price_range": "$503\u2013$789"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Eco-Friendly Disposal",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 191,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(769) 210-9464",
+    "website": "https://goloadup.com",
+    "address": "Hartford, CO",
+    "description": "Full-service junk removal in Hartford. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$91\u2013$154"
+      },
+      {
+        "value": 2,
+        "price_range": "$209\u2013$391"
+      },
+      {
+        "value": 3,
+        "price_range": "$351\u2013$574"
+      },
+      {
+        "value": 4,
+        "price_range": "$591\u2013$893"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Upfront Pricing",
+      "Commercial Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 279,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hartford Junk Removal",
+    "slug": "hartford-junk-removal-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(217) 295-5820",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Reliable junk hauling serving Hartford and central Connecticut.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$93\u2013$174"
+      },
+      {
+        "value": 2,
+        "price_range": "$210\u2013$338"
+      },
+      {
+        "value": 3,
+        "price_range": "$383\u2013$597"
+      },
+      {
+        "value": 4,
+        "price_range": "$543\u2013$820"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Online Booking",
+      "Commercial Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.3,
+    "review_count": 136,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Charter Oak Hauling",
+    "slug": "charter-oak-hauling-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(477) 513-5118",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Same-day junk pickup in the greater Hartford area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$93\u2013$156"
+      },
+      {
+        "value": 2,
+        "price_range": "$203\u2013$339"
+      },
+      {
+        "value": 3,
+        "price_range": "$314\u2013$586"
+      },
+      {
+        "value": 4,
+        "price_range": "$496\u2013$748"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 214,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "CT Junk Pros",
+    "slug": "ct-junk-pros-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(737) 811-5636",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Connecticut's affordable junk removal and cleanout service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85\u2013$161"
+      },
+      {
+        "value": 2,
+        "price_range": "$216\u2013$328"
+      },
+      {
+        "value": 3,
+        "price_range": "$345\u2013$494"
+      },
+      {
+        "value": 4,
+        "price_range": "$526\u2013$702"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Commercial Service",
+      "Same Day Service",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 52,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(853) 970-9042",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Birmingham, AL",
+    "description": "Full-service junk removal in Birmingham. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$85\u2013$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$215\u2013$359"
+      },
+      {
+        "value": 3,
+        "price_range": "$360\u2013$561"
+      },
+      {
+        "value": 4,
+        "price_range": "$536\u2013$746"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Eco-Friendly Disposal",
+      "Online Booking"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.7,
+    "review_count": 255,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(703) 275-1878",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Birmingham, AL",
+    "description": "Full-service junk removal in Birmingham. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$88\u2013$158"
+      },
+      {
+        "value": 2,
+        "price_range": "$217\u2013$309"
+      },
+      {
+        "value": 3,
+        "price_range": "$330\u2013$479"
+      },
+      {
+        "value": 4,
+        "price_range": "$591\u2013$894"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Donation & Recycling",
+      "Commercial Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.2,
+    "review_count": 317,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(589) 661-8253",
+    "website": "https://www.junk-king.com",
+    "address": "Birmingham, AL",
+    "description": "Full-service junk removal in Birmingham. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$98\u2013$186"
+      },
+      {
+        "value": 2,
+        "price_range": "$233\u2013$338"
+      },
+      {
+        "value": 3,
+        "price_range": "$371\u2013$464"
+      },
+      {
+        "value": 4,
+        "price_range": "$474\u2013$894"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Upfront Pricing",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 130,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(445) 377-2229",
+    "website": "https://goloadup.com",
+    "address": "Birmingham, AL",
+    "description": "Full-service junk removal in Birmingham. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89\u2013$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$231\u2013$356"
+      },
+      {
+        "value": 3,
+        "price_range": "$387\u2013$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$523\u2013$707"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Eco-Friendly Disposal",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 282,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Magic City Junk Removal",
+    "slug": "magic-city-junk-removal-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(272) 903-4824",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Birmingham's trusted full-service junk hauling company.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$95\u2013$199"
+      },
+      {
+        "value": 2,
+        "price_range": "$204\u2013$353"
+      },
+      {
+        "value": 3,
+        "price_range": "$313\u2013$588"
+      },
+      {
+        "value": 4,
+        "price_range": "$506\u2013$864"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.1,
+    "review_count": 62,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Iron City Hauling",
+    "slug": "iron-city-hauling-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(514) 809-5728",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Fast, affordable junk removal in Birmingham and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$107\u2013$156"
+      },
+      {
+        "value": 2,
+        "price_range": "$238\u2013$387"
+      },
+      {
+        "value": 3,
+        "price_range": "$337\u2013$552"
+      },
+      {
+        "value": 4,
+        "price_range": "$518\u2013$827"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Online Booking",
+      "Same Day Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.8,
+    "review_count": 208,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Alabama Junk Pros",
+    "slug": "alabama-junk-pros-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(530) 818-5102",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Residential and commercial junk pickup in Birmingham, AL.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$80\u2013$154"
+      },
+      {
+        "value": 2,
+        "price_range": "$208\u2013$385"
+      },
+      {
+        "value": 3,
+        "price_range": "$372\u2013$599"
+      },
+      {
+        "value": 4,
+        "price_range": "$454\u2013$894"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Commercial Service",
+      "Same Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.5,
+    "review_count": 133,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(484) 385-8141",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Buffalo, NE",
+    "description": "Full-service junk removal in Buffalo. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$119\u2013$180"
+      },
+      {
+        "value": 2,
+        "price_range": "$190\u2013$359"
+      },
+      {
+        "value": 3,
+        "price_range": "$343\u2013$553"
+      },
+      {
+        "value": 4,
+        "price_range": "$534\u2013$781"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 303,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(495) 878-7561",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Buffalo, NE",
+    "description": "Full-service junk removal in Buffalo. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$127\u2013$184"
+      },
+      {
+        "value": 2,
+        "price_range": "$183\u2013$357"
+      },
+      {
+        "value": 3,
+        "price_range": "$310\u2013$529"
+      },
+      {
+        "value": 4,
+        "price_range": "$513\u2013$781"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured",
+      "Online Booking"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 50,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(873) 755-8569",
+    "website": "https://www.junk-king.com",
+    "address": "Buffalo, NE",
+    "description": "Full-service junk removal in Buffalo. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$105\u2013$152"
+      },
+      {
+        "value": 2,
+        "price_range": "$203\u2013$365"
+      },
+      {
+        "value": 3,
+        "price_range": "$345\u2013$576"
+      },
+      {
+        "value": 4,
+        "price_range": "$562\u2013$893"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.1,
+    "review_count": 197,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(648) 915-8941",
+    "website": "https://goloadup.com",
+    "address": "Buffalo, NE",
+    "description": "Full-service junk removal in Buffalo. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$86\u2013$150"
+      },
+      {
+        "value": 2,
+        "price_range": "$209\u2013$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$319\u2013$528"
+      },
+      {
+        "value": 4,
+        "price_range": "$590\u2013$702"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Same Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 110,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Buffalo Junk Removal",
+    "slug": "buffalo-junk-removal-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(863) 357-9165",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Western New York's reliable junk hauling service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$124\u2013$167"
+      },
+      {
+        "value": 2,
+        "price_range": "$244\u2013$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$333\u2013$555"
+      },
+      {
+        "value": 4,
+        "price_range": "$572\u2013$819"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.3,
+    "review_count": 173,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Nickel City Hauling",
+    "slug": "nickel-city-hauling-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(720) 964-3236",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Affordable junk pickup and cleanouts in Buffalo, NY.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$83\u2013$166"
+      },
+      {
+        "value": 2,
+        "price_range": "$232\u2013$342"
+      },
+      {
+        "value": 3,
+        "price_range": "$399\u2013$578"
+      },
+      {
+        "value": 4,
+        "price_range": "$517\u2013$699"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Licensed & Insured",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "WNY Junk Pros",
+    "slug": "wny-junk-pros-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(352) 657-9824",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Full-service junk removal for the Buffalo metro area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$109\u2013$171"
+      },
+      {
+        "value": 2,
+        "price_range": "$221\u2013$369"
+      },
+      {
+        "value": 3,
+        "price_range": "$396\u2013$588"
+      },
+      {
+        "value": 4,
+        "price_range": "$545\u2013$815"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Upfront Pricing",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 239,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(994) 620-1715",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Milwaukee, WI",
+    "description": "Full-service junk removal in Milwaukee. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99\u2013$196"
+      },
+      {
+        "value": 2,
+        "price_range": "$239\u2013$389"
+      },
+      {
+        "value": 3,
+        "price_range": "$347\u2013$547"
+      },
+      {
+        "value": 4,
+        "price_range": "$487\u2013$825"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 101,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(650) 302-9617",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Milwaukee, WI",
+    "description": "Full-service junk removal in Milwaukee. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$108\u2013$149"
+      },
+      {
+        "value": 2,
+        "price_range": "$197\u2013$351"
+      },
+      {
+        "value": 3,
+        "price_range": "$382\u2013$488"
+      },
+      {
+        "value": 4,
+        "price_range": "$468\u2013$819"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Eco-Friendly Disposal",
+      "Commercial Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 91,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(536) 890-9742",
+    "website": "https://www.junk-king.com",
+    "address": "Milwaukee, WI",
+    "description": "Full-service junk removal in Milwaukee. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$103\u2013$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$241\u2013$368"
+      },
+      {
+        "value": 3,
+        "price_range": "$303\u2013$466"
+      },
+      {
+        "value": 4,
+        "price_range": "$509\u2013$860"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Free Estimates",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.3,
+    "review_count": 100,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(978) 848-2646",
+    "website": "https://goloadup.com",
+    "address": "Milwaukee, WI",
+    "description": "Full-service junk removal in Milwaukee. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$107\u2013$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$217\u2013$302"
+      },
+      {
+        "value": 3,
+        "price_range": "$304\u2013$532"
+      },
+      {
+        "value": 4,
+        "price_range": "$463\u2013$774"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Eco-Friendly Disposal",
+      "Online Booking"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.2,
+    "review_count": 260,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Brew City Junk Removal",
+    "slug": "brew-city-junk-removal-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(779) 898-3950",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Milwaukee's affordable junk hauling and cleanout service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$89\u2013$160"
+      },
+      {
+        "value": 2,
+        "price_range": "$189\u2013$377"
+      },
+      {
+        "value": 3,
+        "price_range": "$347\u2013$510"
+      },
+      {
+        "value": 4,
+        "price_range": "$576\u2013$848"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 85,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "MKE Hauling",
+    "slug": "mke-hauling-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(882) 209-8622",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Fast junk pickup for homes and businesses in Milwaukee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$97\u2013$192"
+      },
+      {
+        "value": 2,
+        "price_range": "$248\u2013$319"
+      },
+      {
+        "value": 3,
+        "price_range": "$308\u2013$562"
+      },
+      {
+        "value": 4,
+        "price_range": "$537\u2013$849"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Upfront Pricing",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.8,
+    "review_count": 70,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Lakefront Junk Removal",
+    "slug": "lakefront-junk-removal-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(593) 694-2747",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Eco-friendly junk removal serving the Milwaukee metro.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$94\u2013$173"
+      },
+      {
+        "value": 2,
+        "price_range": "$224\u2013$372"
+      },
+      {
+        "value": 3,
+        "price_range": "$336\u2013$524"
+      },
+      {
+        "value": 4,
+        "price_range": "$454\u2013$867"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Same Day Service",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 32,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(820) 963-9138",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Tucson, AR",
+    "description": "Full-service junk removal in Tucson. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$97\u2013$198"
+      },
+      {
+        "value": 2,
+        "price_range": "$208\u2013$376"
+      },
+      {
+        "value": 3,
+        "price_range": "$344\u2013$505"
+      },
+      {
+        "value": 4,
+        "price_range": "$497\u2013$857"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Upfront Pricing",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 120,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(843) 299-1645",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Tucson, AR",
+    "description": "Full-service junk removal in Tucson. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$98\u2013$199"
+      },
+      {
+        "value": 2,
+        "price_range": "$235\u2013$303"
+      },
+      {
+        "value": 3,
+        "price_range": "$373\u2013$542"
+      },
+      {
+        "value": 4,
+        "price_range": "$482\u2013$722"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Eco-Friendly Disposal",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.1,
+    "review_count": 117,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(752) 574-9697",
+    "website": "https://www.junk-king.com",
+    "address": "Tucson, AR",
+    "description": "Full-service junk removal in Tucson. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$111\u2013$166"
+      },
+      {
+        "value": 2,
+        "price_range": "$200\u2013$331"
+      },
+      {
+        "value": 3,
+        "price_range": "$360\u2013$524"
+      },
+      {
+        "value": 4,
+        "price_range": "$535\u2013$728"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Same Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.7,
+    "review_count": 395,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(606) 770-6992",
+    "website": "https://goloadup.com",
+    "address": "Tucson, AR",
+    "description": "Full-service junk removal in Tucson. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$84\u2013$199"
+      },
+      {
+        "value": 2,
+        "price_range": "$229\u2013$300"
+      },
+      {
+        "value": 3,
+        "price_range": "$332\u2013$586"
+      },
+      {
+        "value": 4,
+        "price_range": "$480\u2013$815"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Commercial Service",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.2,
+    "review_count": 245,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tucson Junk Removal",
+    "slug": "tucson-junk-removal-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(853) 580-2775",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Southern Arizona's trusted junk hauling service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$122\u2013$163"
+      },
+      {
+        "value": 2,
+        "price_range": "$239\u2013$302"
+      },
+      {
+        "value": 3,
+        "price_range": "$378\u2013$592"
+      },
+      {
+        "value": 4,
+        "price_range": "$532\u2013$855"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.8,
+    "review_count": 97,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Old Pueblo Hauling",
+    "slug": "old-pueblo-hauling-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(864) 618-2911",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Affordable junk pickup and disposal in Tucson, AZ.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$87\u2013$151"
+      },
+      {
+        "value": 2,
+        "price_range": "$183\u2013$337"
+      },
+      {
+        "value": 3,
+        "price_range": "$362\u2013$478"
+      },
+      {
+        "value": 4,
+        "price_range": "$473\u2013$759"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Online Booking",
+      "Licensed & Insured",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Desert Junk Pros",
+    "slug": "desert-junk-pros-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(753) 629-3531",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Full-service junk removal for the Tucson metro area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$105\u2013$190"
+      },
+      {
+        "value": 2,
+        "price_range": "$191\u2013$361"
+      },
+      {
+        "value": 3,
+        "price_range": "$377\u2013$553"
+      },
+      {
+        "value": 4,
+        "price_range": "$520\u2013$707"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Free Estimates",
+      "Online Booking",
+      "Commercial Service"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.8,
+    "review_count": 45,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(902) 576-9920",
+    "website": "https://www.1800gotjunk.com",
+    "address": "El Paso, TE",
+    "description": "Full-service junk removal in El Paso. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$120\u2013$171"
+      },
+      {
+        "value": 2,
+        "price_range": "$186\u2013$349"
+      },
+      {
+        "value": 3,
+        "price_range": "$334\u2013$497"
+      },
+      {
+        "value": 4,
+        "price_range": "$480\u2013$815"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Upfront Pricing",
+      "Commercial Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 60,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(251) 541-4990",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "El Paso, TE",
+    "description": "Full-service junk removal in El Paso. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$87\u2013$199"
+      },
+      {
+        "value": 2,
+        "price_range": "$205\u2013$307"
+      },
+      {
+        "value": 3,
+        "price_range": "$396\u2013$590"
+      },
+      {
+        "value": 4,
+        "price_range": "$502\u2013$849"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Licensed & Insured",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 355,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(202) 483-3370",
+    "website": "https://www.junk-king.com",
+    "address": "El Paso, TE",
+    "description": "Full-service junk removal in El Paso. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$87\u2013$183"
+      },
+      {
+        "value": 2,
+        "price_range": "$211\u2013$321"
+      },
+      {
+        "value": 3,
+        "price_range": "$313\u2013$455"
+      },
+      {
+        "value": 4,
+        "price_range": "$482\u2013$702"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Licensed & Insured",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 139,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(471) 253-3076",
+    "website": "https://goloadup.com",
+    "address": "El Paso, TE",
+    "description": "Full-service junk removal in El Paso. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$126\u2013$175"
+      },
+      {
+        "value": 2,
+        "price_range": "$246\u2013$313"
+      },
+      {
+        "value": 3,
+        "price_range": "$394\u2013$465"
+      },
+      {
+        "value": 4,
+        "price_range": "$570\u2013$813"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Donation & Recycling",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 163,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "El Paso Junk Removal",
+    "slug": "el-paso-junk-removal-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(829) 244-9543",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Reliable junk hauling for homes and businesses in El Paso.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$98\u2013$178"
+      },
+      {
+        "value": 2,
+        "price_range": "$182\u2013$306"
+      },
+      {
+        "value": 3,
+        "price_range": "$360\u2013$551"
+      },
+      {
+        "value": 4,
+        "price_range": "$558\u2013$874"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 40,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sun City Hauling",
+    "slug": "sun-city-hauling-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(529) 822-3430",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Affordable junk pickup and cleanouts in El Paso, TX.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$83\u2013$157"
+      },
+      {
+        "value": 2,
+        "price_range": "$214\u2013$378"
+      },
+      {
+        "value": 3,
+        "price_range": "$380\u2013$598"
+      },
+      {
+        "value": 4,
+        "price_range": "$589\u2013$881"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Donation & Recycling",
+      "Commercial Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 174,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Borderland Junk Pros",
+    "slug": "borderland-junk-pros-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(640) 301-2874",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Fast junk removal serving El Paso and Las Cruces.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$120\u2013$190"
+      },
+      {
+        "value": 2,
+        "price_range": "$249\u2013$391"
+      },
+      {
+        "value": 3,
+        "price_range": "$326\u2013$559"
+      },
+      {
+        "value": 4,
+        "price_range": "$564\u2013$757"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Licensed & Insured",
+      "Online Booking"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 44,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(520) 637-6120",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Albuquerque, NE",
+    "description": "Full-service junk removal in Albuquerque. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$121\u2013$165"
+      },
+      {
+        "value": 2,
+        "price_range": "$226\u2013$318"
+      },
+      {
+        "value": 3,
+        "price_range": "$386\u2013$570"
+      },
+      {
+        "value": 4,
+        "price_range": "$466\u2013$722"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Same Day Service",
+      "Online Booking"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.6,
+    "review_count": 240,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(333) 769-1982",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Albuquerque, NE",
+    "description": "Full-service junk removal in Albuquerque. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$116\u2013$184"
+      },
+      {
+        "value": 2,
+        "price_range": "$221\u2013$384"
+      },
+      {
+        "value": 3,
+        "price_range": "$314\u2013$554"
+      },
+      {
+        "value": 4,
+        "price_range": "$539\u2013$869"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Commercial Service",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.8,
+    "review_count": 357,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(519) 560-2697",
+    "website": "https://www.junk-king.com",
+    "address": "Albuquerque, NE",
+    "description": "Full-service junk removal in Albuquerque. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$115\u2013$181"
+      },
+      {
+        "value": 2,
+        "price_range": "$206\u2013$318"
+      },
+      {
+        "value": 3,
+        "price_range": "$383\u2013$572"
+      },
+      {
+        "value": 4,
+        "price_range": "$506\u2013$726"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Licensed & Insured",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.1,
+    "review_count": 192,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(787) 431-8030",
+    "website": "https://goloadup.com",
+    "address": "Albuquerque, NE",
+    "description": "Full-service junk removal in Albuquerque. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$114\u2013$198"
+      },
+      {
+        "value": 2,
+        "price_range": "$182\u2013$376"
+      },
+      {
+        "value": 3,
+        "price_range": "$383\u2013$517"
+      },
+      {
+        "value": 4,
+        "price_range": "$456\u2013$745"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Upfront Pricing",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 142,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "ABQ Junk Removal",
+    "slug": "abq-junk-removal-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(346) 779-7566",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Albuquerque's go-to junk hauling and cleanout service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$83\u2013$158"
+      },
+      {
+        "value": 2,
+        "price_range": "$182\u2013$310"
+      },
+      {
+        "value": 3,
+        "price_range": "$394\u2013$584"
+      },
+      {
+        "value": 4,
+        "price_range": "$504\u2013$795"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Eco-Friendly Disposal",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.3,
+    "review_count": 103,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Duke City Hauling",
+    "slug": "duke-city-hauling-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(995) 781-2391",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Affordable junk removal in the Albuquerque metro area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$82\u2013$158"
+      },
+      {
+        "value": 2,
+        "price_range": "$199\u2013$395"
+      },
+      {
+        "value": 3,
+        "price_range": "$378\u2013$461"
+      },
+      {
+        "value": 4,
+        "price_range": "$469\u2013$768"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 75,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rio Grande Junk Pros",
+    "slug": "rio-grande-junk-pros-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(973) 724-2864",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Full-service junk pickup in Albuquerque, NM.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$101\u2013$176"
+      },
+      {
+        "value": 2,
+        "price_range": "$193\u2013$335"
+      },
+      {
+        "value": 3,
+        "price_range": "$385\u2013$573"
+      },
+      {
+        "value": 4,
+        "price_range": "$583\u2013$869"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Free Estimates",
+      "Online Booking"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.0,
+    "review_count": 72,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(508) 416-3248",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Omaha, NE",
+    "description": "Full-service junk removal in Omaha. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$127\u2013$165"
+      },
+      {
+        "value": 2,
+        "price_range": "$216\u2013$340"
+      },
+      {
+        "value": 3,
+        "price_range": "$314\u2013$450"
+      },
+      {
+        "value": 4,
+        "price_range": "$576\u2013$890"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Free Estimates",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(712) 772-6802",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Omaha, NE",
+    "description": "Full-service junk removal in Omaha. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$83\u2013$174"
+      },
+      {
+        "value": 2,
+        "price_range": "$184\u2013$354"
+      },
+      {
+        "value": 3,
+        "price_range": "$301\u2013$566"
+      },
+      {
+        "value": 4,
+        "price_range": "$468\u2013$779"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Donation & Recycling",
+      "Online Booking"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(317) 614-1341",
+    "website": "https://www.junk-king.com",
+    "address": "Omaha, NE",
+    "description": "Full-service junk removal in Omaha. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$99\u2013$159"
+      },
+      {
+        "value": 2,
+        "price_range": "$237\u2013$387"
+      },
+      {
+        "value": 3,
+        "price_range": "$345\u2013$471"
+      },
+      {
+        "value": 4,
+        "price_range": "$560\u2013$726"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Commercial Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 252,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(517) 963-6562",
+    "website": "https://goloadup.com",
+    "address": "Omaha, NE",
+    "description": "Full-service junk removal in Omaha. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$93\u2013$170"
+      },
+      {
+        "value": 2,
+        "price_range": "$200\u2013$308"
+      },
+      {
+        "value": 3,
+        "price_range": "$364\u2013$478"
+      },
+      {
+        "value": 4,
+        "price_range": "$584\u2013$829"
+      }
+    ],
+    "amenities": [
+      "Online Booking",
+      "Licensed & Insured",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 380,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Omaha Junk Removal",
+    "slug": "omaha-junk-removal-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(351) 441-2684",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "The Omaha metro's trusted junk hauling company.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$88\u2013$165"
+      },
+      {
+        "value": 2,
+        "price_range": "$204\u2013$321"
+      },
+      {
+        "value": 3,
+        "price_range": "$376\u2013$488"
+      },
+      {
+        "value": 4,
+        "price_range": "$468\u2013$744"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Online Booking",
+      "Donation & Recycling",
+      "Upfront Pricing"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.6,
+    "review_count": 245,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Heartland Hauling",
+    "slug": "heartland-hauling-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(778) 858-6295",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Affordable junk pickup and disposal in Omaha, NE.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$119\u2013$169"
+      },
+      {
+        "value": 2,
+        "price_range": "$198\u2013$355"
+      },
+      {
+        "value": 3,
+        "price_range": "$307\u2013$569"
+      },
+      {
+        "value": 4,
+        "price_range": "$562\u2013$860"
+      }
+    ],
+    "amenities": [
+      "Donation & Recycling",
+      "Commercial Service",
+      "Same Day Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.5,
+    "review_count": 99,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Cornhusker Junk Pros",
+    "slug": "cornhusker-junk-pros-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(672) 662-1616",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Fast residential and commercial junk removal in Omaha.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$82\u2013$172"
+      },
+      {
+        "value": 2,
+        "price_range": "$215\u2013$308"
+      },
+      {
+        "value": 3,
+        "price_range": "$381\u2013$472"
+      },
+      {
+        "value": 4,
+        "price_range": "$578\u2013$797"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Online Booking",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 174,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1-800-GOT-JUNK?",
+    "slug": "1-800-got-junk?-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(687) 713-3471",
+    "website": "https://www.1800gotjunk.com",
+    "address": "Tulsa, OK",
+    "description": "Full-service junk removal in Tulsa. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$82\u2013$177"
+      },
+      {
+        "value": 2,
+        "price_range": "$192\u2013$342"
+      },
+      {
+        "value": 3,
+        "price_range": "$390\u2013$470"
+      },
+      {
+        "value": 4,
+        "price_range": "$578\u2013$864"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Same Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 274,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk",
+    "slug": "college-hunks-hauling-junk-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(736) 735-3600",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Tulsa, OK",
+    "description": "Full-service junk removal in Tulsa. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$102\u2013$172"
+      },
+      {
+        "value": 2,
+        "price_range": "$215\u2013$348"
+      },
+      {
+        "value": 3,
+        "price_range": "$351\u2013$535"
+      },
+      {
+        "value": 4,
+        "price_range": "$462\u2013$860"
+      }
+    ],
+    "amenities": [
+      "Upfront Pricing",
+      "Same Day Service",
+      "Eco-Friendly Disposal"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 247,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Junk King",
+    "slug": "junk-king-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(490) 458-3463",
+    "website": "https://www.junk-king.com",
+    "address": "Tulsa, OK",
+    "description": "Full-service junk removal in Tulsa. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$100\u2013$154"
+      },
+      {
+        "value": 2,
+        "price_range": "$197\u2013$343"
+      },
+      {
+        "value": 3,
+        "price_range": "$338\u2013$549"
+      },
+      {
+        "value": 4,
+        "price_range": "$482\u2013$851"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Eco-Friendly Disposal",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 218,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LoadUp",
+    "slug": "loadup-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(330) 886-9624",
+    "website": "https://goloadup.com",
+    "address": "Tulsa, OK",
+    "description": "Full-service junk removal in Tulsa. Furniture, appliances, yard waste, and more.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$84\u2013$190"
+      },
+      {
+        "value": 2,
+        "price_range": "$233\u2013$364"
+      },
+      {
+        "value": 3,
+        "price_range": "$345\u2013$453"
+      },
+      {
+        "value": 4,
+        "price_range": "$541\u2013$778"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Free Estimates",
+      "Commercial Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 120,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tulsa Junk Removal",
+    "slug": "tulsa-junk-removal-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(358) 279-5846",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Reliable junk hauling for the Tulsa metro area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$129\u2013$155"
+      },
+      {
+        "value": 2,
+        "price_range": "$243\u2013$397"
+      },
+      {
+        "value": 3,
+        "price_range": "$368\u2013$583"
+      },
+      {
+        "value": 4,
+        "price_range": "$458\u2013$868"
+      }
+    ],
+    "amenities": [
+      "Eco-Friendly Disposal",
+      "Donation & Recycling",
+      "Online Booking"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.1,
+    "review_count": 232,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Green Country Hauling",
+    "slug": "green-country-hauling-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(909) 989-3712",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Affordable junk pickup and eco-friendly disposal in Tulsa.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$125\u2013$177"
+      },
+      {
+        "value": 2,
+        "price_range": "$184\u2013$351"
+      },
+      {
+        "value": 3,
+        "price_range": "$345\u2013$509"
+      },
+      {
+        "value": 4,
+        "price_range": "$562\u2013$855"
+      }
+    ],
+    "amenities": [
+      "Commercial Service",
+      "Free Estimates",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.3,
+    "review_count": 227,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "T-Town Junk Pros",
+    "slug": "t-town-junk-pros-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(680) 398-7026",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Full-service cleanouts and junk removal in Tulsa, OK.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$122\u2013$185"
+      },
+      {
+        "value": 2,
+        "price_range": "$235\u2013$358"
+      },
+      {
+        "value": 3,
+        "price_range": "$397\u2013$521"
+      },
+      {
+        "value": 4,
+        "price_range": "$546\u2013$827"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Free Estimates",
+      "Commercial Service",
+      "Donation & Recycling"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.8,
+    "review_count": 33,
     "verified": false,
     "pricing_estimated": true
   }
