@@ -13,12 +13,28 @@ export const metadata: Metadata = {
  */
 const POSTS = [
   {
-    slug: 'example-post',
-    title: `${config.industry.singular} Cost: What You'll Actually Pay`,
-    excerpt: 'A deep dive into pricing across different markets.',
-    date: 'January 1, 2026',
-    readTime: '8 min read',
+    slug: 'junk-removal-cost',
+    title: 'Junk Removal Cost in 2026: What You\'ll Actually Pay',
+    excerpt: 'Complete pricing guide — by load size, item type, and city. Plus tips to save 30%+ on your next haul.',
+    date: 'February 19, 2026',
+    readTime: '10 min read',
     category: 'Pricing',
+  },
+  {
+    slug: 'how-much-does-junk-removal-cost',
+    title: 'How Much Does Junk Removal Cost? (2026 Breakdown)',
+    excerpt: 'Cost by project type, regional pricing differences, hidden fees to watch for, and how to get the best deal.',
+    date: 'February 19, 2026',
+    readTime: '12 min read',
+    category: 'Pricing',
+  },
+  {
+    slug: 'cheap-junk-removal-near-me',
+    title: 'Cheap Junk Removal Near Me: How to Find the Best Deal',
+    excerpt: 'Every budget-friendly option compared — from free city pickup to affordable local haulers. Plus 7 ways to cut your bill.',
+    date: 'February 19, 2026',
+    readTime: '9 min read',
+    category: 'Budget',
   },
 ];
 
