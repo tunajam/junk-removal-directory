@@ -18,6 +18,7 @@ export default function Header() {
             <Link href="/" className="hover:text-accent transition-colors">Home</Link>
             <Link href="/#cities" className="hover:text-accent transition-colors">Browse Cities</Link>
             <Link href="/#how-it-works" className="hover:text-accent transition-colors">How It Works</Link>
+            <Link href="/pricing" className="hover:text-accent transition-colors">Pricing</Link>
             <Link href="/guides" className="hover:text-accent transition-colors">Guides</Link>
             <Link href="/blog" className="hover:text-accent transition-colors">Blog</Link>
           </nav>

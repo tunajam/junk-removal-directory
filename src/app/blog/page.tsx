@@ -36,6 +36,22 @@ const POSTS = [
     readTime: '9 min read',
     category: 'Budget',
   },
+  {
+    slug: 'what-can-junk-removal-take',
+    title: 'What Can (and Can\'t) Junk Removal Companies Haul?',
+    excerpt: 'Complete guide to what junk removal services will and won\'t pick up — from furniture and appliances to hazardous materials.',
+    date: 'February 21, 2026',
+    readTime: '6 min read',
+    category: 'Guide',
+  },
+  {
+    slug: 'eco-friendly-junk-disposal',
+    title: 'Eco-Friendly Junk Disposal: Getting Rid of Stuff Responsibly',
+    excerpt: 'How to dispose of junk responsibly. Recycling, donation, choosing green haulers, and reducing your environmental impact.',
+    date: 'February 21, 2026',
+    readTime: '5 min read',
+    category: 'Sustainability',
+  },
 ];
 
 export default function BlogIndex() {

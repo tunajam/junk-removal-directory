@@ -19,6 +19,7 @@ export interface Company {
   description: string;
   services: ServiceTier[];    // e.g. sizes, packages, tiers
   amenities: string[];
+  service_types: string[];
   service_area_miles: number;
   rating: number;
   review_count: number;
